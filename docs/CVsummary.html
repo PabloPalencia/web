@@ -1,34 +1,48 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>CVsummary</title>
+<title>CV summary</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,37 +55,11 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
-</head>
 
-<body>
+
+
 
 <style type = "text/css">
 .main-container {
@@ -79,13 +67,8 @@ h6 {
   margin-left: auto;
   margin-right: auto;
 }
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -96,44 +79,59 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
+.dropdown-submenu {
+  position: relative;
 }
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
 }
-
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
 }
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
 }
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
 }
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+.dropdown-submenu.pull-left {
+  float: none;
 }
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -143,27 +141,91 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
-
-
-<div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -171,12 +233,12 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">PabloPalencia</a>
+      <a class="navbar-brand" href="index.html">Pablo Palencia</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -184,7 +246,22 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="Journal.html">Journal</a>
+  <a href="CVsummary.html">CV summary</a>
+</li>
+<li>
+  <a href="Links.html">Collaborations</a>
+</li>
+<li>
+  <a href="Journal.html">Host &amp; supervision</a>
+</li>
+<li>
+  <a href="Journal.html">Fieldwork</a>
+</li>
+<li>
+  <a href="Journal.html">Teaching</a>
+</li>
+<li>
+  <a href="Journal.html">Awards</a>
 </li>
 <li>
   <a href="Links.html">Links</a>
@@ -197,30 +274,106 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
-<h1 class="title toc-ignore">Resources</h1>
+<h1 class="title toc-ignore">CV summary</h1>
 
 </div>
 
 
-<div id="r-and-r-studio" class="section level3">
-<h3>R and R-Studio</h3>
-<p><a href="http://www.r-project.org">R</a> is a free open-source programming language that can be used for statistical analysis, data-simulation, graphing, and lots of other stuff. Another free program is <a href="http://www.rstudio.com">R-studio</a>, that provides a nice graphic interface for R. Download R first, then download R-studio. Both can run on PCs, Macs or Linux. Students will be learning R in the stats labs using the lab manual <a href=""></a>.</p>
+<style>
+body {
+text-align: justify}
+</style>
+<div id="cv-summary" class="section level2">
+<h2>CV summary</h2>
+<p>I am a postdoctoral researcher at Biodiversity Research Institute
+(IMIB). I obtained in December 2021 the PhD degree in Agricultural and
+Environmental Sciences (cum laude). I also hold an MSc in Applied
+Research in Wildlife and Game Resources (2017) and a BSc in
+Environmental Sciences (2016). I have published 32 peer-reviewed
+publications (25 of them Q1, 12 as first/corresponding aurthor), and 12
+scientific reports. I have lectured for 215 hours at the Bsc and Master
+level. I have also supervised 11 bachelor/master students, hosted one
+PhD student, and one postdoctoral researchers, and co-supervised
+chapters of four PhD thesis. I have received 292,655.70€ in competitive
+calls as principal investigator (PI)/beneficiary. I have been PI of four
+projects calls, and I have collaborated as a researcher on seven
+projects and 10 transfer of knowledge contracts. I have contributed with
+47 presentations at national/international congresses. Regarding
+international mobility, I have been funded in competitive calls to visit
+four universities and research institutions abroad for a total period of
+33 months (9 pre-doc + 24 post-doc) at the Zoological Society of London
+(UK), Uni. of St. Andrews (UK), Uni. of Agricultural Sciences (Sweden)
+and Uni. of Torino (Italy). I have published articles with 112
+international researchers. I am associate editor of the journal
+Ecosystems edited by the Spanish Association of Terrestrial Ecology, and
+I have served on the evaluation committee for one competitive project
+call. I have been a member of the organizing committee of two scientific
+congresses, and one of the scientific committees. I am also a member of
+the European Observatory of Wildlife (EOW) advisory board, a European
+network capable of monitoring wildlife populations. I give particular
+attention to communicating and disseminating research, interacting
+frequently with the media (e.g. El País) and managing an X account
+(<span class="citation">@cameratraps1</span>) with &gt; 2,1K followers
+in which I disseminate information about wildlife, camera traps and
+research. I usually transfer my knowledge to the international and
+national levels in the form of courses and workshops. For instance, I
+have been invited as a keynote speaker to seminars organized by Imperial
+College of London, veterinarians and engineering associations, and
+workshops hosted by ENETWILD project, Mammalnet CitSci project and
+Palombar NGO. I have received the “Seal of Excellence” in my project
+proposal “One health: tick-borne pathogens in the context of a wildlife
+pandemic” in Marie Skłodowska-Curie Actions Postdoctoral Fellowships
+2022 (MSCA-PF). I have been also awarded extraordinary prices on the
+Bachelor, Master and PhD levels. <br/><br/></p>
 </div>
-<div id="additional-r-resources" class="section level3">
-<h3>Additional R resources</h3>
-<ol style="list-style-type: decimal">
-<li>Google is great, Google your problem</li>
-<li><a href="https://stackoverflow.com">Stackoverflow</a> is great, google will often take you there because someone has already asked your question, and someone else has answered, usually many people have answered your question many ways.</li>
-<li>Danielle Navarro wrote a <a href="https://compcogscisydney.org/learning-statistics-with-r/">free Psych Stats textbook using R</a>, it’s worth checking out (some of our textbook are based on Danielle’s)</li>
-<li>I am currently writing another stats textbook (incorporating some of the above). You can read it while it’s being made right here <a href="https://crumplab.github.io/statistics/" class="uri">https://crumplab.github.io/statistics/</a>, also check out the lab manual for more specific things about doing various stats in R (also in draft right now) <a href="https://crumplab.github.io/statisticsLab/" class="uri">https://crumplab.github.io/statisticsLab/</a></li>
-<li>Daniell Navarro recently made this website for introducing R, it’s great, check it out (also made using this R markdown process): <a href="http://compcogscisydney.org/psyr/" class="uri">http://compcogscisydney.org/psyr/</a></li>
-<li>Check out my slightly older programming book that also introduces R <a href="https://crumplab.github.io/programmingforpsych/" class="uri">https://crumplab.github.io/programmingforpsych/</a></li>
-<li>This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): <a href="https://bookdown.org/yihui/rmarkdown/" class="uri">https://bookdown.org/yihui/rmarkdown/</a></li>
-</ol>
+<div id="top-10-publications" class="section level2">
+<h2>TOP-10 publications</h2>
+<pre><code>10. Palencia, P., Sereno Cadierno, J., Carniato, D., Marques, T., Hofmeester, T. R., Vicente, J., &amp; Acevedo, P. (2024). [Clustered and rotating designs as a strategy to obtain precise detection rates in camera trapping studies](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14690). Journal of Applied Ecology. 
+
+9. Zampetti, A., Mirante, D., Palencia, P., &amp; Santini, L. (2024). [Towards an automated protocol for wildlife density estimation using camera‐traps](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14450) Methods in Ecology and Evolution. 
+
+8. Palencia, P., &amp; Barroso, P. (2024). [Disentangling ground-nest predation rates through an artificial nests experiment in an area with western capercaillie (Tetrao urogallus) presence: martens are the key](https://link.springer.com/article/10.1007/s10344-024-01837-9). European Journal of Wildlife Research, 70(5), 87. 
+
+7. Delisle, Z. J., Henrich, M., Palencia, P., &amp; Swihart, R. K. (2023). [Reducing bias in density estimates for unmarked populations that exhibit reactive behaviour towards camera traps](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14247) Methods in Ecology and Evolution, 14(12), 3100-3111. 
+
+6. Palencia, P., Vada, R., Zanet, S., Calvini, M., Gola, G., &amp; Ferroglio, E. (2023). [Not just pictures: Utility of camera trapping in the context of African swine fever and wild boar management](https://onlinelibrary.wiley.com/doi/full/10.1155/2023/7820538?msockid=198d1e9a20b862c23d1d0b8b2110631c). Transboundary and Emerging Diseases, 2023(1), 7820538. AC: Palencia, P. 
+
+5. Barroso, P., Relimpio, D., Zearra, J. A., Cerón, J. J., Palencia, P., Cardoso, B., ... &amp; Gortázar, C. (2023). [Using integrated wildlife monitoring to prevent future pandemics through one health approach](https://www.sciencedirect.com/science/article/pii/S2352771422001112) One Health, 16, 100479. 
+
+4. Palencia, P., Barroso, P., Vicente, J., Hofmeester, T. R., Ferreres, J., &amp; Acevedo, P. (2022). [Random encounter model is a reliable method for estimating population density of multiple species using camera traps](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.269) Remote Sensing in Ecology and Conservation, 8(5), 670-682. 
+
+3. Palencia, P., Vicente, J., Soriguer, R. C., &amp; Acevedo, P. (2022). [Towards a best practices guide for camera trapping: assessing differences among camera trap models and settings under field conditions](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/jzo.12945) Journal of Zoology, 316(3), 197-208.  
+
+2. Palencia, P., Rowcliffe, J. M., Vicente, J., &amp; Acevedo, P. (2021). [Assessing the camera trap methodologies used to estimate density of unmarked populations](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13913) Journal of Applied Ecology, 58(8), 1583-1592. 
+
+1. Palencia, P., Fernández López, J., Vicente, J., &amp; Acevedo, P. (2021). [Innovations in movement and behavioural ecology from camera traps: Day range as model parameter](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13609) Methods in Ecology and Evolution, 12(7), 1201-1212.</code></pre>
+</div>
+<div id="top-10-congress" class="section level2">
+<h2>TOP-10 congress</h2>
+<pre><code>10- Oral communication – international congress: P. Palencia, López-Bao, J. V.; Barroso, P.; Gallardo, H.; Jaumejoan, X.; Sazatornil, V. &amp; Mateo-Tomás, P. Low wild boar predation rates in artificial ground nests in capercaillie habitats 9th World Conference on Mountain Ungulates, Dushanbe, Tajikistan, 12/10/2024-15/10/2024
+
+9- Oral communication – international congress: P. Palencia, P. Acevedo, T. R. Hofmeester, J. Sereno, &amp; J. Vicente. Disentangling the drivers of wild boar movement patterns from camera trap data. 13th Symposium on Wild Boar and Other Suids, Barcelona, Spain, 6/9/2022-/9/2022
+
+8- Poster communication – international congress: P Palencia, S Blome, E Ferroglio, A Gogin, Y Jo, R, A Linden, M-L Penrith, J Vicente, A Viltrop &amp; C Gortazar. Tools and opportunities for African swine fever control in wild boar and feral pigs: a review. 13th Symposium on Wild Boar and Other Suids, Barcelona, Spain, 6/9/2022-9/9/2022
+
+7- Oral communication – national congress: P. Palencia, J. Vicente &amp; P. Acevedo. Avances en la monitorización de densidad poblacional y ecología del movimiento de mamíferos no reconocibles (unmarked species) mediante fototrampeo. XV Congreso de la Sociedad Española para la Conservación y Estudio de los Mamíferos (SECEM); Córdoba, Spain; 04-07/12/2021
+
+6- Poster communication – international congress: P. Palencia, J. Fernández-López, J. Vicente &amp; P. Acevedo. Innovations in movement and behavioural ecology from camera traps: day range as model parameter. Scaling Up Camera Trap Surveys to Inform Regional Wildlife Conservation. Canadá; 18/05/2020
+
+5- Oral communication – international congress: P. Palencia, F. Carro, R. C. Soriguer, J. Vicente &amp; P. Acevedo. Considerations for analyzing a long time series of distance sampling data. IX Meeting of Iberian Wild Ungulates. Granada, Spain; 04-06/10/2018
+
+4- Poster communication – international congress: P. Palencia, P. Iglesias, J. Jiménez, F. Carro, R. C. Soriguer, J. Vicente &amp; P. Acevedo. Assessing the random encounter model reliability with wild ungulates. 12th Symposium on Wild Boar and Other Suids. Lázne, Czech Republic; 04-07/09/2018
+
+3- Poster communication – international congress: P. Palencia, B. Bovillo, J. Vicente, X. Pardavila, L. Royo, F. Carro, A. Lamosa &amp; P. Acevedo. Seasonal and spatial variation in wild boar movement behaviour: implications for random encounter model. 12th Symposium on Wild Boar and Other Suids. Lázne, Czech Republic; 04-07/09/2018
+
+2- Oral communication – national congress: P. Palencia, P. Barroso, J. Vicente &amp; P. Acevedo. Efecto de la tortuosidad sobre estimas del rango diario de desplazamiento: el jabalí (Sus scrofa) como caso de estudio. XIII Congreso de la Sociedad Española para la Conservación y Estudio de los Mamíferos (SECEM). Guadalajara, Spain; 06-09/12/2017
+
+1- Poster communication – international congress: P. Palencia, P. Barroso, J. Vicente &amp; P. Acevedo. Estimating wild boar (Sus scrofa) travel speed and day range: is telemetry the more precise option? Trends in Biodiversity and Evolution (TiBE). Vairão, Portugal; 28-30/06/2017</code></pre>
+<p><br/><br/></p>
 </div>
 
 
@@ -232,7 +385,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -240,6 +393,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
