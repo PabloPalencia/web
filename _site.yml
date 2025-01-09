@@ -2,9 +2,19 @@ name: "Pablo Palencia"
 navbar:
   title: "Pablo Palencia"
   left:
-    - text: "Home2"
+    - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "CV summary"
+      href: CVsummary.html
+    - text: "Collaborations"
+      href: Links.html
+    - text: "Host & supervision"
+      href: Journal.html
+    - text: "Fieldwork"
+      href: Journal.html
+    - text: "Teaching"
+      href: Journal.html
+    - text: "Awards"
       href: Journal.html
     - text: "Links"
       href: Links.html
