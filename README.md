@@ -1,2 +1,2 @@
 # Pablo Palencia site
-An R Markdown website template for a lab journal [https://crumplab.github.io/LabJournalWebsite/index.html](https://crumplab.github.io/LabJournalWebsite/index.html)
+An R Markdown website template for a lab journal [https://pablopalencia.github.io/web/index.html](https://pablopalencia.github.io/web/index.html)
