@@ -1,8 +1,8 @@
-name: "Pablo Palencia website"
+name: "Pablo Palencia"
 navbar:
-  title: "Pablo Palencia website"
+  title: "Pablo Palencia"
   left:
-    - text: "Home"
+    - text: "Home2"
       href: index.html
     - text: "Journal"
       href: Journal.html
