@@ -1,0 +1,17 @@
+---
+title: "Internazionalization"
+output: 
+  html_document:
+    theme: sandstone
+    fig_width: 20
+    fig_height: 6
+  
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+
+I have visitied research insititutions abroad at United Kingdom, Sweden and Italy. I have been also afiliated in two research institutions in Spain. In total, I have co-authored manuscripts with **112 researchers** from **18 countries**.
+![](images/NodePlot.jpg)
