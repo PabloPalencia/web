@@ -15,7 +15,7 @@ navbar:
     - text: "Teaching4"
       href: Journal.html
     - text: "Awards"
-      href: Journal.html
+      href: Awards.html
     - text: "Links"
       href: Links.html
 output_dir: "docs"
