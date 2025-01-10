@@ -72,3 +72,12 @@ I visited ZSL-IoZ in 2019 for 3 months under the supervision of [Prof Rowcliffe]
 </div>
 
 ## **Game and Wildlife Research Institute - University of Castilla-La Mancha** (IREC-UCLM) 
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+I at landed at [IREC](https://www.irec.es/) for the first time in June, 2015 as an internship student under the supervision of [Dr Vicente](https://scholar.google.es/citations?user=LKuXcdsAAAAJ&hl=es&oi=ao), I enjoyed this period placing cameras, capturing and tagging with telemetry collars wild ungulates, and vaccinating wild boar against tuberculosis... One year later, I returned as a research fellow to carry out estimates of ungulate abundance by distance sampling. I started the master [MUIBARC](https://www.uclm.es/estudios/masteres/master-investigacion-recursos-cinegeticos), got another scholarship to start my research, and shortly after, a 4-year contract from the Spanish Ministry (FPU - 98,227.26€) to do my PhD thesis. [Dr Acevedo](https://scholar.google.es/citations?user=vecKO2QAAAAJ&hl=es&oi=ao) and Dr Vicente were my supervisors. In this period, I worked on the development, fine-tuning and harmonisation of methods to estimate wildlife population density, mainly working with camera trapping and unmarked populations. In these four and a half years I published up to 6 articles as first author, in journals such as *Journal of Applied Ecology*, *Methods in Ecology and Evolution* and *Remote Sensing in Ecology and Conservation*, among others. In addition, I published other articles as co-author, supervised students, presented papers at conferences...
+
+</div>
+<div class="col-sm-6">
+![](images/IREC_dia1.jpg)
