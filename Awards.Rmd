@@ -1,29 +1,32 @@
 ---
-title: "Awards"
-output: html_document
-date: "2025-01-10"
+title: "List of Awards"
+output: 
+  html_document:
+    theme: sandstone
+    fig_width: 20
+    fig_height: 6
+  
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+</style>
 
-## R Markdown
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+## ALUMNI-UCLM - Research
+[ALUMNI-UCLM 2023](https://www.uclm.es/misiones/lauclm/consejodedireccion/vpu/destacados) as a recognition for my research career as part of the Univesity of Castilla-La Mancha [UCLM](https://www.uclm.es/)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Extraordinary award PhD
+Recognition of excellence in my PhD thesis **"Developing and harmonizing camera trap methods to estimate population density and movement parameters of unmarked populations: the random encounter model"** (*Cum-laude*)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Extraordinary award Master
+Recognition as the best student in the master's degree **Basic and applied research in game and wildlife resources, 2017**. (9.4/10)
 
-```{r cars}
-summary(cars)
-```
+## Extraordinary award Bachelor
+Recognition as the best student in the Bsc's degree **Environmental Sciences, 2016**. (8.67/10)
 
-## Including Plots
+</div>
+<div class="col-sm-6">
+![](images/Premios.jpg)
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+</div>
