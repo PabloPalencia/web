@@ -7,7 +7,7 @@ navbar:
     - text: "CV summary"
       href: CVsummary.html
     - text: "Internationalization"
-      href: Internationalization.html
+      href: Internazionalization.html
     - text: "Host & supervision"
       href: Host.html
     - text: "Fieldwork2"
