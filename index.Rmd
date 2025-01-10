@@ -28,7 +28,7 @@ Definitively, the use of **camera traps** for address conservation and managemen
 
 ### [See here a short version of my CV ](https://pablopalencia.github.io/web/CVsummary.html)
 
-<a href = "https://crumplab.github.io">
+<a href = "https://pablopalencia.github.io/web/CVsummary.html">
 ![](images/foto_perfil.jpg)
 </a>
 </div>

@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "CV summary"
       href: CVsummary.html
-    - text: "Collaborations"
-      href: Links.html
+    - text: "Internationalization"
+      href: Internationalization.html
     - text: "Host & supervision"
       href: Journal.html
     - text: "Fieldwork"
