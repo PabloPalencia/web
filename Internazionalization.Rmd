@@ -43,6 +43,18 @@ Just 12 days after my PhD viva, the first case of a wild boar infected positive 
 <br/>
 
 ## **Swedish University of Agricultural Sciences** (SLU) {#SLU}
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+I visited SLU in 2021 for 3 months under the supervision of [Dr Hofmeester](hhttps://www.slu.se/en/ew-cv/tim-hofmeester2/). I got funding for this stay in the competitive call funded by the “Spanish Ministry of Universities - (4,740€)”. During this stay, I was focused on comparing REM densities against reference ones; and we also started to evaluate the variability in movement patterns in terrestrial mammals. As a result of this stay, I published [this article](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.269) in *Remote Sensing in Ecology and Conservation*. There was time also for the fieldwork, for instance setting cameras for SNAPSHOTEUROPE... and spotting nice fauna (moose, and my first capercaillie!). The collaboration with Tim was so nice, so we have continue collaborating... For instance, exploring the variability in movement patterns across populations (more [here](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.269)). 
+
+</div>
+<div class="col-sm-6">
+![](images/Tim.jpg)
+
+</div>
+
 <br/>
 <br/>
 
