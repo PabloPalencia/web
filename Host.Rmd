@@ -13,7 +13,7 @@ output:
 ## 2024
 
 
-### Dr Plhal
+### **Dr Plhal**
 </style>
 
 <div class="row" style="padding-top: 30px;">
