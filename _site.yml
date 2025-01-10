@@ -9,7 +9,7 @@ navbar:
     - text: "Internationalization"
       href: Internationalization.html
     - text: "Host & supervision"
-      href: Journal.html
+      href: Host.html
     - text: "Fieldwork"
       href: Journal.html
     - text: "Teaching"
