@@ -7,11 +7,6 @@ output:
     fig_height: 6
   
 ---
-<style>
-body {
-text-align: justify}
-</style>
-
 
 I have visited research institutions abroad at [United Kingdom](#ZSL), [Sweden](#SLU) and [Italy](#UniTo). I have been also affiliated in two research institutions in Spain. In total, I have co-authored manuscripts with **112 researchers** from **18 countries**.
 
@@ -23,36 +18,45 @@ Node plot showing the 112 authors I have published research articles. Node and l
 </figcaption>
 
 </figure>
-
-
+<br/>
+<br/>
 
 ## **Biodiversity Research Insitute - University of Oviedo** (IMIB - UniOvi)
-Since January 2024, I am currently affiliated with [IMIB](https://imib.csic.es/) as a postdoctoral researcher under the supervision of [Dra Mateo-Tomás](https://scholar.google.es/citations?user=N9VkCNIAAAAJ&hl=es&oi=ao). I got funding for this contract in a competitive call funded by the “Spanish Ministry of Science and Innovation – Juan de la Cierva” (76,548.42€). I am focused on the utility of non-lethal alternatives to reduce predators’ impact on endangered species considering capercaillie populations as a case of study. Some [results about that are already published](https://link.springer.com/article/10.1007/s10344-024-01837-9), but still many thing to do! I am also working on artificial intelligence models to identify animals affected by sarcoptic mange; and exploring the reliability of camera trapping to estimate wolf population density.
+Since January 2024, I am currently affiliated with [IMIB](https://imib.csic.es/) as a postdoctoral researcher under the supervision of [Dra Mateo-Tomás](https://scholar.google.es/citations?user=N9VkCNIAAAAJ&hl=es&oi=ao). I got funding for this contract in a competitive call funded by the “Spanish Ministry of Science and Innovation – Juan de la Cierva” (76,548.42€). I am focused on the utility of non-lethal alternatives to reduce predators’ impact on endangered species. Particularly, I am testing the utility of **diversionary feeding** (deliberate provisioning of food to explore the propensity of individuals to exploit the most easily accessed resource) to reduce predators' impact on capercaillie. Some [results about that are already published](https://link.springer.com/article/10.1007/s10344-024-01837-9), but still many thing to do! I am also working on **artificial intelligence** models to identify animals affected by sarcoptic mange; and exploring the reliability of camera trapping to estimate wolf population density.
+<br/>
+<br/>
 
 ## **University of Turin** (UniTo) {#UniTO}
+</style>
 
-## **Swedish University of Agricultural Sciences** (SLU) {#SLU}
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+Just 12 days after my PhD viva, the first case of a wild boar infected positive to **African swine fever** (ASF) was reported in mainland Italy (ASF is a widespread virus causing 90% mortality rates in wild boar and domestic pig). Thus, I packed my bags and moved to Turin to join [Prof Ferroglio group](https://scholar.google.es/citations?user=oJ5vKjMAAAAJ&hl=es&oi=ao). I got funding for this stay in two competitive calls, one of them funded by UniTo, and the second funded by the “University of Castilla-La Mancha – Margarita Salas contracts (86,153.88€)”. We there monitored the core zone where the outbreak was detected (Capanne di Marcarolo Natural Park, I miss you Marcarolo squadra!), and front-like zones, camera trapping is very useful in the context of [ASF emergence!](https://onlinelibrary.wiley.com/doi/full/10.1155/2023/7820538?msockid=198d1e9a20b862c23d1d0b8b2110631c). In addition to camera trapping, we also used [environmental DNA](https://link.springer.com/article/10.1007/s10344-023-01758-z) in the context of ASF management. I also continue to work on other aspects not related to ASF-wild boar, such as monitoring porcupine populations, or [fine-tuning methods to estimate population density](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14247).
 
-
-## **Zoological Society of London - Institute of Zoology** (ZSL-IoZ) {#ZSL}
-
-<div style="display: flex;">
-
-  <div style="width: 70%; padding: 10px; border: none; background: transparent;">
-              I visited ZSL-IoZ in 2019 for 3 months under the supervision of [Prof Rowcliffe](https://www.zsl.org/about-zsl/our-people/prof-marcus-rowcliffe). I got funding for this stay in the competitive call “on the move” funded by the “Society of Spanish Researchers in the United Kingdom - (6,600€)”. During this stay, I got experience in random encounter model (REM), a method to estimate population density without the need for individual recognition; Prof Rowcliffe described this method in 2008. The stay was not only focused REM, but also in other unmarked methods, such as CTDS and REST. As a result of this stay, I published [this article](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13913) in *Journal of Applied Ecology* (to this day, this is the article with the greatest repercussion of all the articles I have published!)
-  </div>
-
-  <div style="width: 30%; padding: 10px;">
- ![](images/FotoMarcusRowcliffe.jpg)
-  </div>
+</div>
+<div class="col-sm-6">
+![](images/Turin.jpg)
 
 </div>
 
----
+<br/>
+<br/>
 
+## **Swedish University of Agricultural Sciences** (SLU) {#SLU}
+<br/>
+<br/>
 
+## **Zoological Society of London - Institute of Zoology** (ZSL-IoZ) {#ZSL}
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
 I visited ZSL-IoZ in 2019 for 3 months under the supervision of [Prof Rowcliffe](https://www.zsl.org/about-zsl/our-people/prof-marcus-rowcliffe). I got funding for this stay in the competitive call “on the move” funded by the “Society of Spanish Researchers in the United Kingdom - (6,600€)”. During this stay, I got experience in random encounter model (REM), a method to estimate population density without the need for individual recognition; Prof Rowcliffe described this method in 2008. The stay was not only focused REM, but also in other unmarked methods, such as CTDS and REST. As a result of this stay, I published [this article](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13913) in *Journal of Applied Ecology* (to this day, this is the article with the greatest repercussion of all the articles I have published!)
-</figure>
 
+</div>
+<div class="col-sm-6">
 ![](images/FotoMarcusRowcliffe.jpg)
 
+</div>
+
+## **Game and Wildlife Research Institute - University of Castilla-La Mancha** (IREC-UCLM) 
