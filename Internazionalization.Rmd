@@ -2,9 +2,7 @@
 title: "Internationalization"
 output: 
   html_document:
-    theme: sandstone
-    fig_width: 20
-    fig_height: 6
+    theme: united
   
 ---
 
@@ -12,7 +10,7 @@ I have visited research institutions abroad at [United Kingdom](#ZSL), [Sweden](
 
 </figure>
 
-![](images/NodePlot.png)
+![](images/NodePlot.png){width=80%}
 <figcaption style="font-size: 0.85em; color: #082a64;">
 Node plot showing the 112 authors I have published research articles. Node and label size is proportional to the number of collaborations. Each colour represents a country, been the most frequent: purple (Spain), green (Italy), pink (USA), orange (Canada).
 </figcaption>
@@ -35,7 +33,10 @@ Just 12 days after my PhD viva, the first case of a wild boar infected positive 
 
 </div>
 <div class="col-sm-6">
-![](images/Turin.jpg)
+![](images/Turin.jpg){width=250px}
+<br/>
+<br/>
+
 
 </div>
 
@@ -51,7 +52,7 @@ I visited SLU in 2021 for 3 months under the supervision of [Dr Hofmeester](hhtt
 
 </div>
 <div class="col-sm-6">
-![](images/Tim.jpg)
+![](images/Tim.jpg){width=270px}
 
 </div>
 
@@ -67,7 +68,7 @@ I visited ZSL-IoZ in 2019 for 3 months under the supervision of [Prof Rowcliffe]
 
 </div>
 <div class="col-sm-6">
-![](images/FotoMarcusRowcliffe.jpg)
+![](images/FotoMarcusRowcliffe.jpg){width=270px}
 
 </div>
 
@@ -80,4 +81,4 @@ I at landed at [IREC](https://www.irec.es/) for the first time in June, 2015 as 
 
 </div>
 <div class="col-sm-6">
-![](images/IREC_dia1.jpg)
+![](images/IREC_dia1.jpg){width=270px}

@@ -2,9 +2,7 @@
 title: "CV summary"
 output: 
   html_document:
-    theme: sandstone
-    fig_width: 20
-    fig_height: 6
+    theme: united
   
 ---
 <style>

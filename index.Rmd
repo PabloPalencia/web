@@ -1,6 +1,8 @@
 ---
 title: "Pablo Palencia site"
-output: html_document
+output: 
+  html_document:
+    theme: united
 ---
 
 <style type="text/css">
