@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+output: 
+  html_document:
+    theme: united
+  
+---
+# **University level**
+I have lectured for 215 hours at the BSc and Master level in subjects related with wildlife management and conservation, ecology, biological conservation, etc.
+
+- **Degree**: Environmental sciences
+  **Subject** Fauna y Comunidades Faunísticas Ibéricas 
+   **University** University of Castilla-La Mancha
+
+such: “Iberian fauna and communities”, “Population dynamics”, “Management of protected natural areas”, and “Conservation biology” among others, at the University of Castilla-La Mancha (BSc in Environmental Sciences and BSc in Agricultural and Agro-alimentary Engineering), and University of Oviedo (BSc in Forestry and Environmental Engineering, MSc in Biotechnology Applied to the Sustainable Management and Conservation of Plant Resources, and MSc in Civil Engineering)
+
+# **Courses, workshops, etc.**
+
+# **Host**
+
+
+I have visited research institutions abroad at [United Kingdom](#ZSL), [Sweden](#SLU) and [Italy](#UniTo). I have been also affiliated in two research institutions in Spain. In total, I have co-authored manuscripts with **112 researchers** from **18 countries**.
+
+</figure>
+
+![](images/NodePlot.png){width=80%}
