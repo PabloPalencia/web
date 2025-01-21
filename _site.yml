@@ -10,10 +10,10 @@ navbar:
       href: Internazionalization.html
     - text: "Host & supervision"
       href: Host.html
-    - text: "Fieldwork"
-      href: Journal.html
+    - text: "Research"
+      href: Research.html
     - text: "Teaching"
-      href: Journal.html
+      href: Teaching.html
     - text: "Awards"
       href: Awards.html
     - text: "Links"
