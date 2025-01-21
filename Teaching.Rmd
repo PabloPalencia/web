@@ -8,19 +8,42 @@ output:
 # **University level**
 I have lectured for 215 hours at the BSc and Master level in subjects related with wildlife management and conservation, ecology, biological conservation, etc.
 
-- **Degree**: Environmental sciences
-  **Subject** Fauna y Comunidades Faunísticas Ibéricas 
-   **University** University of Castilla-La Mancha
+- **Degree**: Bsc in Civil Engineering<br/>
+  **Subject** Environmental impact assessment <br/>
+  **University** University of Oviedo
+  
+- **Degree**: Msc in Civil Engineering<br/>
+  **Subject** Ecology and Environmental Impact <br/>
+  **University** University of Oviedo
+  
+- **Degree**: Msc Forestry and Environmental Engineering<br/>
+  **Subject** Management of Natural Protected Areas <br/>
+  **University** University of Oviedo
+  
+- **Degree**: Msc Biotechnology Applied to the Conservation and Conservation and Sustainable Resources<br/>
+  **Subject** Principles of Conservation Biology: Criteria and Applications <br/>
+  **University** University of Oviedo
+  
+- **Degree**: Bsc Agricultural and Agrifood Engineering <br/>
+  **Subject** Animal Production III <br/>
+  **University** University of Castilla-La Mancha
+  
+- **Degree**: Bsc Agricultural and Agrifood Engineering <br/>
+  **Subject** Animal Production II <br/>
+  **University** University of Castilla-La Mancha
+  
+- **Degree**: Bsc Environmental sciences<br/>
+  **Subject** Population dynamics<br/>
+  **University** University of Castilla-La Mancha
+  
+- **Degree**: Bsc Environmental sciences<br/>
+  **Subject** Iberian Fauna<br/>
+  **University** University of Castilla-La Mancha
 
-such: “Iberian fauna and communities”, “Population dynamics”, “Management of protected natural areas”, and “Conservation biology” among others, at the University of Castilla-La Mancha (BSc in Environmental Sciences and BSc in Agricultural and Agro-alimentary Engineering), and University of Oviedo (BSc in Forestry and Environmental Engineering, MSc in Biotechnology Applied to the Sustainable Management and Conservation of Plant Resources, and MSc in Civil Engineering)
+![](images/Palombar.jpg){width=70%}
+<br/>
+<br/>
+<br/>
 
 # **Courses, workshops, etc.**
 
-# **Host**
-
-
-I have visited research institutions abroad at [United Kingdom](#ZSL), [Sweden](#SLU) and [Italy](#UniTo). I have been also affiliated in two research institutions in Spain. In total, I have co-authored manuscripts with **112 researchers** from **18 countries**.
-
-</figure>
-
-![](images/NodePlot.png){width=80%}
