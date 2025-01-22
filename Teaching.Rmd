@@ -6,7 +6,7 @@ output:
   
 ---
 # **University level**
-I have lectured for 215 hours at the BSc and Master level in subjects related with wildlife management and conservation, ecology, biological conservation, etc.
+I have lectured for 215 hours at the BSc and MSc level in subjects related with wildlife management and conservation, ecology, biological conservation, etc.
 
 - **Degree**: Bsc in Civil Engineering<br/>
   **Subject** Environmental impact assessment <br/>
@@ -52,7 +52,10 @@ I have lectured for 215 hours at the BSc and Master level in subjects related wi
 I usually participate in courses, training camps, workshops etc. Among the most relevant, I should highlight:
 
 ## Palombar
+<div style="text-align: justify;">
 The annual course [*"Use of Camera Trapping in Ecological Studies and Wildlife Monitoring"*](https://www.palombar.pt/pt/atividades/curso-de-armadilhagem-fotografica-6-o-edicao-2025-2f02-2f06/) organised by **Palombar** NGO (Portugal). This course started in 2019, we have formed more than 120 attenders, and I am responsible for a full day in which we focus on camera traps utility, development, survey design, artificial intelligence, software, etc.
+</div>
+
 ![](images/Palombar2.jpg){width=70%}
 
 <figcaption style="font-size: 0.85em; color: #082a64;">
@@ -60,7 +63,16 @@ The annual course [*"Use of Camera Trapping in Ecological Studies and Wildlife M
 </figcaption>
 
 ## European Observatory of Wildlife (EOW)
+<div style="text-align: justify;">
 The European Observatory of Wildlife ([EOW](https://wildlifeobservatory.org/)) is a network of study sites capable of monitoring wildlife population density at the European level. The EOW usually organize training courses in which I participate lecturing about the use of camera traps to monitor terrestrial mammals, and the estimation of population density using unmarked methods. Videos of these courses are [available online](https://www.youtube.com/watch?v=NUW4oLGeQwk).
+</div>
 
 ## ENETWILD
+<div style="text-align: justify;">
 [ENETWILD](https://enetwild.com/) is an international network of wildlife professionals dedicated to enhancing European capabilities in monitoring wildlife health under the One Health approach.I have participated in courses organized by ENETWILD, and videos of these courses are available in the [project youtube chanel](https://www.youtube.com/@projectenetwild7026) (some of them, first editions were not online, see this photo).
+
+## ADMINISTRATIONS
+<div style="text-align: justify;">
+I also transfer the results of my research to the government and regional administrations. For instance, I have teach to "Junta de Comunidades de Castilla-La Mancha" and "Principado de Asturias" among others.
+</div>
+![](images/CursoAsturias.jpg){width=70%}
