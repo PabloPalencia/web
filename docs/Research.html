@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -219,6 +222,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -226,6 +292,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -263,9 +339,6 @@ $(document).ready(function () {
 <li>
   <a href="Awards.html">Awards</a>
 </li>
-<li>
-  <a href="Links.html">Links</a>
-</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -292,7 +365,6 @@ which I focus my research. <br/> <br/></p>
 </div>
 <div id="projects" class="section level1">
 <h1><strong>Projects</strong></h1>
-<p>More coming soon!</p>
 <div id="impact-of-diversionary-feeding-at-population-level"
 class="section level2">
 <h2><strong>Impact of diversionary feeding at population
@@ -308,7 +380,7 @@ In collaboration with colleagues from <a
 href="https://www.irec.es/">IREC</a> we are assessing a key question
 about diversionary feeding: how diversionary feeding affects in terms of
 abundance, aggregation, occupancy, etc predators’ populations. <img
-src="images/DivFeedCuenca.jpg" style="width:40.0%" /></p>
+src="images/DivFeedCuenca.jpg" style="width:40.0%" /> <br/></p>
 </div>
 <div
 id="utility-of-diversionary-feeding-on-reducing-predators-impact-on-ground-nesting-birds"
@@ -346,13 +418,42 @@ style="width:40.0%" /></p>
 boar and domestic pigs. During my first postdoc, I focused my research
 to monitor wild boar populations in north Italy, were the first case of
 an infected wild boar was reported just 15 days after my thesis viva.
-Capanne di Marcarolo Natural Park was one of our study areas. <img
-src="images/Marcarolo.jpg" style="width:70.0%" /></p>
+First, I led a <a
+href="https://link.springer.com/article/10.1007/s10344-023-01696-w">review
+on management tools</a> and opportunities for ASF control in wild boar
+populations. Then, we established a monitoring programm in north Italy,
+in zones infected (e.g. Capanne di Marcarolo Natural Park, see picture
+with Marcaroli’s) and border zones (Po valley, Pavia region, etc). It
+was not only about camera trapping, but also environmental DNA <a
+href="https://link.springer.com/article/10.1007/s10344-023-01758-z"><strong>(eDNA)</strong></a>.
+<br/></p>
+<p><img src="images/Marcarolo.jpg" style="width:40.0%" /></p>
 <p><br/></p>
 </div>
 <div id="density-estimation-unmarked-populations"
 class="section level2">
 <h2><strong>Density estimation &amp; unmarked populations</strong></h2>
+<p>This is likely my main research line. I dedicate my <a
+href="https://www.researchgate.net/publication/356878289_Developing_and_harmonizing_camera_trap_methods_to_estimate_population_density_and_movement_parameters_of_unmarked_populations_the_random_encounter_model">PhD</a>
+to develop and harmonize camera trapping methods to estimate population
+density of unmarked populations (those in which is not possible to
+identify animals). I have been especially focused on random encounter
+model <strong>(REM)</strong>, <a
+href="https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.269">comparing
+its reliability against benchmark methods</a>, comparing its <a
+href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13913">performance
+against other camera trapping unmarked methods</a>, <a
+href="https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/jzo.13204">optimizing
+its applicability</a>, etc. I have also experience in other unmarked
+methods, such as camera-trap distance sampling <strong>(CTDS)</strong>,
+space to event model (STE), and random encounter and staying time
+(REST). For instance, I used CTDS to estimate crested porcupine
+(<em>Hystrix cristata</em>) <a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10793?msockid=198d1e9a20b862c23d1d0b8b2110631c">density
+on its northern distribution range in Europe</a>. I have also experience
+in other methods, such as Spatial capture–recapture
+<strong>(SCR)</strong> and line and point distance sampling
+<strong>(DS)</strong>.</p>
 <p><br/></p>
 </div>
 <div id="camera-trapping-movement-ecology" class="section level2">
@@ -360,7 +461,12 @@ class="section level2">
 <p>Capturing and tagging with telemetry wild animals is time-consuming
 and not flexible in some situations. Expanding the utility of camera
 trapping in movement ecology studies is something in which I am
-particularly interested. <br/></p>
+particularly interested. I have been focused on day range (daily
+distance traveled), which is a key parameter in REM. I have also
+expanded the utility of camera trapping in this topic by publishing the
+R package <a
+href="https://github.com/PabloPalencia/trappingmotion"><strong>trappingmotion</strong></a></p>
+<p><br/></p>
 </div>
 <div id="integrated-wildlife-monitoring" class="section level2">
 <h2><strong>Integrated wildlife monitoring</strong></h2>
@@ -377,12 +483,14 @@ gondii or bluetongue among others. I dedicated my first postdoc at the
 University of Turin to design, implement (in collaboration with Italian
 authorities) and fine-tuning an integrated wildlife monitoring program
 to monitor the spread of ASF in the infected populations of Italy. <br/>
-<img src="images/PabloSanitary.jpg" style="width:70.0%" /> <br/></p>
+<img src="images/PabloSanitary.jpg" style="width:40.0%" /> <br/></p>
 </div>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -415,6 +523,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
