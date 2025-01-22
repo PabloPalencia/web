@@ -10,7 +10,7 @@ I have visited research institutions abroad at [United Kingdom](#ZSL), [Sweden](
 
 </figure>
 
-![](images/NodePlot.PNG){width=80%}
+![](images/NodePlot.PNG)
 <figcaption style="font-size: 0.85em; color: #082a64;">
 Node plot showing the 112 authors I have published research articles. Node and label size is proportional to the number of collaborations. Each colour represents a country, been the most frequent: purple (Spain), green (Italy), pink (USA), orange (Canada).
 </figcaption>
