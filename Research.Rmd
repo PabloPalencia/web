@@ -20,9 +20,16 @@ Recent studies concluded that ground-nesting birds are 86 % more likely to decli
 ![](images/DivFeedCuenca.jpg){width=40%}
 
 ## **Utility of diversionary feeding on reducing predators impact on ground-nesting birds**
+Related to the previous section, I am also assessing the utility of diversionary feeding to reduce the predators impact on ground nest. Particularly, I am working in the Pyreens and Cantabrian Mountains, where capercaillie (*Tetrao urogallus*) is experiencing a strong decline.
+![](images/MartaHuevo3.JPG){width=40%}
 <br/>
 
 ## **Camera trapping box: survey design, camera performance, etc.**
+I have worked (and continue to work) on various jobs related to the operation of cameras, and key points when designing a photo-trapping studio. From an experiment in which we compared various camera traps (including Reconyx, Bushnell, Scoutguard, Ltl Acorn and Keepguard) and identified the main factors that determine whether an animal passes in front of a camera and is detected (or not). Spoiler, cameras miss a lot more than they detect!
+And also other work in which we evaluated the effect of placing three cameras per sampling point (not in the same tree, but in the surrounding area) on detection rates. Also the effect of changing camera locations instead of keeping them fixed for the whole study period, etc.
+<br/>
+![](images/FotoCamaraBrowning.jpg){width=40%}
+
 <br/>
 
 ## **African swine fever emergence**
@@ -35,6 +42,7 @@ African swine fever (ASF) is a virus causing 90% mortality in wild boar and dome
 <br/>
 
 ## **Camera trapping & movement ecology**
+Capturing and tagging with telemetry wild animals is time-consuming and not flexible in some situations. Expanding the utility of camera trapping in movement ecology studies is something in which I am particularly interested. 
 <br/>
 
 ## **Integrated wildlife monitoring**

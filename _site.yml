@@ -16,6 +16,4 @@ navbar:
       href: Teaching.html
     - text: "Awards"
       href: Awards.html
-    - text: "Links"
-      href: Links.html
 output_dir: "docs"
