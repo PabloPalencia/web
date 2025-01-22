@@ -7,7 +7,7 @@ output:
 ---
 
 # **Narrative description**
-My research is focused on developing and fine-tuning cutting-edge tools for wildlife management and conservation. I could highlight three research lines. Below you can find a short description of the main research lines in which I focus my research.
+My research is focused on **developing and fine-tuning cutting-edge tools for wildlife management and conservation**. Below you can find a short description of the main research lines in which I focus my research.
 <br/>
 <br/>
 
@@ -25,6 +25,9 @@ Recent studies concluded that ground-nesting birds are 86 % more likely to decli
 <br/>
 
 ## **African swine fever emergence**
+African swine fever (ASF) is a virus causing 90% mortality in wild boar and domestic pigs. During my first postdoc, I focused my research to monitor wild boar populations in north Italy, were the first case of an infected wild boar was reported just 15 days after my thesis viva. Capanne di Marcarolo Natural Park was one of our study areas.
+![](images/Marcarolo.jpg){width=70%}
+
 <br/>
 
 ## **Density estimation & unmarked populations**
@@ -34,6 +37,7 @@ Recent studies concluded that ground-nesting birds are 86 % more likely to decli
 <br/>
 
 ## **Integrated wildlife monitoring**
-Integrated wildlife monitoring merges wildlife health and host community monitoring for effective disease management and prevention. I did my PhD in a “health and biotechnology group [(SaBio)](https://www.irec.es/investigacion/grupos-de-investigacion/sanidad-y-biotecnologia-sabio/)”, and my first postdoc in a Veterinary Faculty [(UniTo)](https://www.clmveterinaria.unito.it/do/home.pl), so I have led the host community monitoring in several studies. I have worked with shared diseases between wildlife and livestock such as African swine fever (ASF), bovine tuberculosis, sarcoptic mange, toxoplasma gondii or bluetongue among others.Special mention requires ASF, a virus causing 90% mortality in wild boar and pigs. I dedicated my first postdoc at the University of Turin to design, implement (in collaboration with Italian authorities) and fine-tuning an integrated wildlife monitoring program to monitor the spread of the virus in the infected populations of Italy.
+Integrated wildlife monitoring merges wildlife health and host community monitoring for effective disease management and prevention. I did my PhD in a “health and biotechnology group [(SaBio)](https://www.irec.es/investigacion/grupos-de-investigacion/sanidad-y-biotecnologia-sabio/)”, and my first postdoc in a Veterinary Faculty [(UniTo)](https://www.clmveterinaria.unito.it/do/home.pl), so I have led the host community monitoring in several studies. I have worked with shared diseases between wildlife and livestock such as African swine fever (ASF), bovine tuberculosis, sarcoptic mange, toxoplasma gondii or bluetongue among others. I dedicated my first postdoc at the University of Turin to design, implement (in collaboration with Italian authorities) and fine-tuning an integrated wildlife monitoring program to monitor the spread of ASF in the infected populations of Italy.
+<br/>
 ![](images/PabloSanitary.jpg){width=70%}
 <br/>

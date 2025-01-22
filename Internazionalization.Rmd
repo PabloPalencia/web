@@ -73,4 +73,4 @@ I at landed at [IREC](https://www.irec.es/) for the first time in June, 2015 as 
 
 </div>
 <div class="col-sm-3">
-![](images/PyJqYo.jpg)
+![](images/PyJqYo.jpg){width=92%}
