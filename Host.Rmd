@@ -50,7 +50,7 @@ I have participated in the supervision of PhD chapters of four different thesis.
 ### *MSc and BSc thesis*
 I have supervised four BSc and three MSc thesis. These theses have addressed different aspects related to the monitoring and study of wildlife. Some examples:
 
--**Student**: D. González; **Title**: Factors affecting the detectability of wildlife at wind farms: the role of vertebrate scavengers; **University**:University of Oviedo (Spain), *Biology*	
+- **Student**: D. González; **Title**: Factors affecting the detectability of wildlife at wind farms: the role of vertebrate scavengers; **University**: University of Oviedo (Spain), *Biology*	
 
 - **Student**: B. Fernandez; **Title** Evaluation of animal behaviour patterns in camera-trapping studies; **University**: University of Castilla-La Mancha (Spain), *Environmental sciences*	
 
