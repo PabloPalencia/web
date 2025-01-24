@@ -62,7 +62,9 @@ I have also experience in other unmarked methods, such as camera-trap distance s
 </div>
 <br/>
 ![](images/SimulationGIF.gif){width=70%}
-
+<figcaption style="font-size: 0.85em; color: #082a64;">
+Visualization of a simulated population sampled with camera traps. The GIF shows two animals (red & blue) moving arround a regular grid of cameras (white points). The background green layer represents a simulated habitat suitability.
+</figcaption>
 
 ## **Camera trapping & movement ecology**
 <div style="text-align: justify;">
