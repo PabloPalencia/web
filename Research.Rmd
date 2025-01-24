@@ -9,7 +9,6 @@ output:
   
 ---
 
-# **Narrative description**
 <div style="text-align: justify;">
 My research is focused on **developing and fine-tuning cutting-edge tools for wildlife management and conservation**. Below you can find a short description of the main research lines in which I focus my research.
 </div>
@@ -62,6 +61,8 @@ This is likely my main research line. I dedicate my [PhD](https://www.researchga
 I have also experience in other unmarked methods, such as camera-trap distance sampling **(CTDS)**, space to event model (STE), and random encounter and staying time (REST). For instance, I used CTDS to estimate crested porcupine (*Hystrix cristata*) [density on its northern distribution range in Europe](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10793?msockid=198d1e9a20b862c23d1d0b8b2110631c). I have also experience in other methods, such as Spatial capture–recapture **(SCR)** and line and point distance sampling **(DS)**.
 </div>
 <br/>
+![](images/SimulationGIF.gif){width=70%}
+
 
 ## **Camera trapping & movement ecology**
 <div style="text-align: justify;">
