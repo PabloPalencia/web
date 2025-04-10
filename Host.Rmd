@@ -7,6 +7,17 @@ output:
 ---
 # **Host**
 
+### *Alí Çelík*
+
+<div class="col-sm-7">
+[Mr Çelik](https://www.researchgate.net/profile/Ali-Celik-18) is a PhD student affiliated at Karadeniz Technical University in Turkey.He is interested in monitoring red deer populations in Turkey. During his visit, we worked on designing a camera trapping experiment to monitor red deer and predators (in his study area, the presence of wolves, bears, jackals and feral dogs is common!). 
+<br/>
+</div>
+<div class="col-sm-5">
+![](images/FotoAli.jpg)
+</div>
+<br/>
+<br/>
 
 
 ### *Radim Plhal*
@@ -49,6 +60,8 @@ I have participated in the supervision of PhD chapters of four different thesis.
 
 ### *MSc and BSc thesis*
 I have supervised four BSc and three MSc thesis. These theses have addressed different aspects related to the monitoring and study of wildlife. Some examples:
+
+- **Student**: I. García; **Title**: Emerging technologies in mammal research: use and application of camera trapping; **University**:  University of Castilla-La Mancha (Spain), *Environmental sciences*	
 
 - **Student**: D. González; **Title**: Factors affecting the detectability of wildlife at wind farms: the role of vertebrate scavengers; **University**: University of Oviedo (Spain), *Biology*	
 
