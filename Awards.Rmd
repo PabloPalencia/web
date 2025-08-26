@@ -11,7 +11,7 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 ## ALUMNI-UCLM - Research
-[ALUMNI-UCLM 2023](https://www.uclm.es/misiones/lauclm/consejodedireccion/vpu/destacados) as a recognition for my research career as part of the Univesity of Castilla-La Mancha [UCLM](https://www.uclm.es/)
+[ALUMNI-UCLM 2023](https://fundaciongeneraluclm.es/tag/premios-alumni/) as a recognition for my research career as part of the University of Castilla-La Mancha [UCLM](https://www.uclm.es/)
 
 ## Extraordinary award PhD
 Recognition of excellence in my PhD thesis **"Developing and harmonizing camera trap methods to estimate population density and movement parameters of unmarked populations: the random encounter model"** (*Cum-laude*)
