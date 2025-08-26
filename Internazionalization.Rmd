@@ -26,7 +26,7 @@ Since January 2024, I am currently affiliated with [IMIB](https://imib.csic.es/)
 <br/>
 <br/>
 
-## **University of Sassari** (SLU) {#UNISS}
+## **University of Sassari** (UNISS) {#UNISS}
 
 <div class="col-sm-6" style="text-align: justify;">
 I visited UNISS in 2025 for 1 month under the supervision of [Prof Apollonio](https://www.veterinaria.uniss.it/en/node/2266) and [Dr Scandura](https://veterinaria.uniss.it/it/node/2274). I got funding for this stay in the competitive call funded by the “University of Oviedo - Banco Santander - (4,000€)”. The stay focused on developing new tools for estimating wolf population density on a large scale. To do this, we analysed data from wolves tagged with GPS collars and worked with simulations. We hope to publish the results of this work in 2026. The stay also served to work on new advances at the [European Observatory of Wildlife](https://wildlifeobservatory.org/). 
