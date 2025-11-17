@@ -6,9 +6,13 @@ output:
   
 ---
 # **University level**
-I have lectured for 215 hours at the BSc and MSc level in subjects related with wildlife management and conservation, ecology, biological conservation, etc.
+I have lectured for 248 hours at the BSc and MSc level in subjects related with wildlife management and conservation, ecology, biological conservation, etc.
 
-- **Degree**: Bsc in Civil Engineering<br/>
+- **Degree**: Bsc in Biology <br/>
+  **Subject** Zoology <br/>
+  **University** University of Oviedo
+  
+- **Degree**: Bsc in Civil Engineering <br/>
   **Subject** Environmental impact assessment <br/>
   **University** University of Oviedo
   

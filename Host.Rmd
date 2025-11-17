@@ -7,6 +7,19 @@ output:
 ---
 # **Host**
 
+### *Pedro Girotti*
+
+<div class="col-sm-7">
+[Mr Girotti](https://www.researchgate.net/profile/Pedro-Girotti) is a PhD student affiliated at the University of Tuscia in Italy. He is interested in monitoring ungulates populations in central Italy using camera traps. During his visit, we worked on REST and REM, and I also took the opportunity to introduce him to photogrammetry. 
+<br/>
+</div>
+<div class="col-sm-5">
+![](images/Pedro2.JPG)
+</div>
+<br/>
+<br/>
+
+
 ### *Alí Çelík*
 
 <div class="col-sm-7">
