@@ -15,13 +15,13 @@ I have visited research institutions abroad at [United Kingdom](#ZSL), [Sweden](
 Node plot showing the 112 authors I have published research articles. Node and label size is proportional to the number of collaborations. Each colour represents a country, been the most frequent: purple (Spain), green (Italy), pink (USA), orange (Canada).
 </figcaption>
 
-</figure>
 <br/>
 <br/>
 
 ## **Biodiversity Research Institute - University of Oviedo** (IMIB - UniOvi)
+<div class="row">
 
-<div class="col-sm-6" style="text-align: justify;">
+  <div class="col-sm-6" style="text-align: justify;">
 In 2024 and 2025, I was affiliated with [IMIB](https://imib.csic.es/) as a postdoctoral researcher under the supervision of [Dr Mateo-Tomás](https://scholar.google.es/citations?user=N9VkCNIAAAAJ&hl=es&oi=ao). I got funding for this contract in a competitive call funded by the “Spanish Ministry of Science and Innovation – Juan de la Cierva” fellowship (76,548.42€). My research focused on the utility of non-lethal alternatives to reduce predators’ impact on endangered species. Particularly, I am testing the utility of **diversionary feeding** (deliberate provisioning of food to explore the propensity of individuals to exploit the most easily accessed resource) to reduce predators' impact on capercaillie. Some [results about that are already published](https://link.springer.com/article/10.1007/s10344-024-01837-9), but still many things to do! I am also working on **artificial intelligence** models to identify animals affected by sarcoptic mange; and assessing the reliability of camera trapping to estimate wolf population density.
 
 </div>
@@ -29,7 +29,7 @@ In 2024 and 2025, I was affiliated with [IMIB](https://imib.csic.es/) as a postd
 ![](images/IMIB_CoeCons.jpg){width=350px}
 
 </div>
-
+</div>
 <br/>
 <br/>
 
